@@ -7,3 +7,6 @@ build = "build.rs"
 links = "fido2"
 
 [dependencies]
+
+[build-dependencies]
+bindgen = "0.59.1"
